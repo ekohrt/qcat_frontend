@@ -15,4 +15,4 @@ set FLASK_APP=app.py
 set FLASK_ENV=development  
 flask run  
   
-4. you should see a url near the top of the output: copy and paste this into your browser. [Source](https://cs396-web-dev.github.io/winter2022/assignments/lab02#:~:text=try%20running%20your%20flask%20app%20from%20your%20command%20line)
+4. you should see a url near the top of the output, like "Running on http://<span></span>127.0.0.1:5000/". Copy and paste this url into your browser. [Source.](https://cs396-web-dev.github.io/winter2022/assignments/lab02#:~:text=try%20running%20your%20flask%20app%20from%20your%20command%20line)
